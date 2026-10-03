@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of braveware/flarum-theme-illuminated.** Not for installation: use [Packagist](https://packagist.org/packages/braveware/flarum-theme-illuminated) or the [upstream repository](https://github.com/Braveware/flarum-theme-illuminated).
 
-**0** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.5) · License: `GPL-3.0-or-later` · Flarum: `>=0.1.0-beta.16 <=0.1.0`
+**6** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.5) · License: `GPL-3.0-or-later` · Flarum: `>=0.1.0-beta.16 <=0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-04-23 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-04-23 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-04-23 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-04-23 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.3) |
+| `1.0.4` | 2021-04-23 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.4) |
+| `1.0.5` | 2021-04-23 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/braveware-flarum-theme-illuminated/tree/archive/v1.0.5) |
 
 Catalog entry: [packages/braveware-flarum-theme-illuminated.json](https://github.com/flarchive/archive-index/blob/main/packages/braveware-flarum-theme-illuminated.json)
 
